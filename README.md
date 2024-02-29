@@ -1,4 +1,3 @@
-- Currently learning Python 
 
 ### 🔗 Links
 [LinkedIn](https://www.linkedin.com/in/nbkurian/)
