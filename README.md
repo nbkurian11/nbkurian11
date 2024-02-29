@@ -6,7 +6,7 @@
 
 ### 👨🏼‍💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py, MATLAB, java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 
 
