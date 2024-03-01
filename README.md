@@ -11,4 +11,4 @@
 
 
 ### 🛠 Tools and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=vscode, tk)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
