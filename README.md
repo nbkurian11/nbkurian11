@@ -7,7 +7,7 @@ Hello, world!
 
 ### 👨🏼‍💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,java, javascript)](https://skillicons.dev)
 
 
 
