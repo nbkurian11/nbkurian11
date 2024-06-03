@@ -10,7 +10,3 @@ Hello, world!
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,java,js,html,css)](https://skillicons.dev)
 
 
-
-
-### 🛠 Tools and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
