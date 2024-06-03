@@ -12,7 +12,5 @@ Hello, world!
 
 ### What I'm listening to...
 
-![Spotify recently played]![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nbkurian11&unique={true|1|on|yes})
-
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nbkurian11&count={count})
 
