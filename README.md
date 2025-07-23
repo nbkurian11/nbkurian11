@@ -1,5 +1,9 @@
 Hello, world! 
 
+Computer Science [Second Year]
+
+Current Project: Chess
+
 
 ### 🔗 Links
 [LinkedIn](https://www.linkedin.com/in/nbkurian/)
