@@ -2,7 +2,7 @@ Hello, world!
 
 Computer Science [Second Year]
 
-Current Project: Chess
+Current Project: Productivity Tracker Web App
 
 
 ### 🔗 Links
