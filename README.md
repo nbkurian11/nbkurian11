@@ -11,7 +11,7 @@
 ---
 
 ### 👨🏼‍💻 Languages & Tools  
-![My Skills](https://skillicons.dev/icons?i=java,html,css,js,py)  
+![My Skills](https://skillicons.dev/icons?i=java,html,css,js,py,cpp)  
 
 ---
 
