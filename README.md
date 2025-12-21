@@ -1,4 +1,3 @@
-# 👋 Hello, World!  
 
 🎓 **Second-Year Computer Science Student**  
 💻 Currently building: **FlowTask – A Productivity Tracker Web App**  
