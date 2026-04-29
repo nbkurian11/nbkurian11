@@ -12,7 +12,7 @@ Attempting to build a daily habit of programming.
 ---
 
 ### 👨🏼‍💻 Languages & Tools  
-![My Skills](https://skillicons.dev/icons?i=java,html,css,js,py,cpp)  
+![My Skills](https://skillicons.dev/icons?i=java,html,css,js,py,c)  
 
 ---
 
