@@ -7,7 +7,7 @@ Attempting to build a daily habit of programming.
 ---
 
 ### 🔗 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/nbkurian/)  
+[LinkedIn](https://www.linkedin.com/in/noelku/)  
 
 ---
 
