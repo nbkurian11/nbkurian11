@@ -1,8 +1,6 @@
 
 🎓 **Third-Year Computer Science Student**  
 
-Attempting to build a daily habit of programming. 
-
 
 ---
 
