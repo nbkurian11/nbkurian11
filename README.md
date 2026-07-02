@@ -1,4 +1,4 @@
-# Hey, I'm Noel 👋
+# Hey, I'm Noel 
 
 Third-year Computer Science student at York University building real projects in Python, Flask, and JavaScript.
 
@@ -10,7 +10,7 @@ Third-year Computer Science student at York University building real projects in
 ---
 
 ### 🛠️ Languages & Tools
-![Skills](https://skillicons.dev/icons?i=python,flask,java,js,html,css,sql,git)
+![Skills](https://skillicons.dev/icons?i=python,flask,java,js,html,css,git,sqlite)
 
 ---
 
