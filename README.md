@@ -17,7 +17,7 @@ Third-year Computer Science student at York University building projects in Pyth
 ### 🚀 What I'm Building
 - 🔨 **ZeroDay** — A debt tracking app with payoff calculations using the avalanche method
 - ✅ **Stocks API** — Real-time stock price REST API built with Python and Flask
-- 📚 **LearnOOP** — A learning platform for York EECS 2030 students
+- 📚 **LearnOOP** — A learning platform for object oriented programming
 
 ---
 
