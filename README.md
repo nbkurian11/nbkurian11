@@ -1,18 +1,25 @@
+# Hey, I'm Noel 👋
 
-🎓 **Third-Year Computer Science Student**  
-
-
----
-
-### 🔗 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/noelku/)  
+Third-year Computer Science student at York University building real projects in Python, Flask, and JavaScript.
 
 ---
 
-### 👨🏼‍💻 Languages & Tools  
-![My Skills](https://skillicons.dev/icons?i=java,html,css,js,py,c)  
+### 🔗 Connect
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/noelku/)
 
 ---
 
-### 📈 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats-lac-seven.vercel.app?user=nbkurian11&theme=dark-minimalist&hide_border=true&short_numbers=true)  
+### 🛠️ Languages & Tools
+![Skills](https://skillicons.dev/icons?i=python,flask,java,js,html,css,sql,git)
+
+---
+
+### 🚀 What I'm Building
+- 🔨 **ZeroDay** — A debt tracking app with payoff calculations using the avalanche method
+- ✅ **Stocks API** — Real-time stock price REST API built with Python and Flask
+- 📚 **LearnOOP** — A learning platform for York EECS 2030 students
+
+---
+
+### 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats-lac-seven.vercel.app?user=nbkurian11&theme=dark-minimalist&hide_border=true&short_numbers=true)
