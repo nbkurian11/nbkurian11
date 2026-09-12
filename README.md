@@ -15,8 +15,7 @@ Third-year Computer Science student at York University building projects in Pyth
 ---
 
 ###  What I'm Building
--  **LearnOOP** — A learning platform for object oriented programming
-
+Loading....
 ---
 
 ### GitHub Stats
