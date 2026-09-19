@@ -14,9 +14,7 @@ Third-year Computer Science student at York University building projects in Pyth
 
 ---
 
-###  What I'm Building
-Loading....
----
+
 
 ### GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats-lac-seven.vercel.app?user=nbkurian11&theme=dark-minimalist&hide_border=true&short_numbers=true)
