@@ -1,7 +1,6 @@
 # Hey, I'm Noel 
 
-Third-year Computer Science student at York University building projects in Python, Flask, and JavaScript.
-
+Bias towards Action
 ---
 
 ###  Connect
