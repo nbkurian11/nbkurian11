@@ -1,6 +1,5 @@
 # Hey, I'm Noel 
 
-Bias towards Action
 ---
 
 ###  Connect
